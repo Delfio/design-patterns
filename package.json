@@ -1,0 +1,11 @@
+{
+  "name": "padroes-de-projetos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Delfio/design-patterns.git",
+  "author": "Delfio <delfio_eu@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
